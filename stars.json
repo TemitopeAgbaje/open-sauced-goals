@@ -1,26 +1,38 @@
 [
   {
+    "full_name": "deepsourcelabs/good-first-issue",
+    "stargazers_count": 1149,
+    "open_issues_count": 26,
+    "forks_count": 308
+  },
+  {
+    "full_name": "aviyelverse/aviyel-first-pr",
+    "stargazers_count": 16,
+    "open_issues_count": 2,
+    "forks_count": 56
+  },
+  {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 3433,
+    "stargazers_count": 3439,
     "open_issues_count": 30,
-    "forks_count": 1545
+    "forks_count": 1548
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 1810,
+    "stargazers_count": 1818,
     "open_issues_count": 3,
-    "forks_count": 1797
+    "forks_count": 1810
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2921,
+    "stargazers_count": 2925,
     "open_issues_count": 24,
     "forks_count": 701
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 126248,
+    "stargazers_count": 126568,
     "open_issues_count": 145,
-    "forks_count": 24118
+    "forks_count": 24163
   }
 ]
