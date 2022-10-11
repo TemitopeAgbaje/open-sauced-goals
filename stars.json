@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "MunGell/awesome-for-beginners",
+    "stargazers_count": 44491,
+    "open_issues_count": 70,
+    "forks_count": 5946
+  },
+  {
+    "full_name": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
+    "stargazers_count": 349,
+    "open_issues_count": 6,
+    "forks_count": 58
+  },
+  {
     "full_name": "Your-First-Open-Source-Project/Your-First-Open-Source-Project",
-    "stargazers_count": 67,
+    "stargazers_count": 71,
     "open_issues_count": 1,
-    "forks_count": 62
+    "forks_count": 65
   },
   {
     "full_name": "blossom-babs/Data-structures-and-algorithm",
@@ -13,38 +25,38 @@
   },
   {
     "full_name": "deepsourcelabs/good-first-issue",
-    "stargazers_count": 1278,
-    "open_issues_count": 40,
-    "forks_count": 339
+    "stargazers_count": 1300,
+    "open_issues_count": 45,
+    "forks_count": 349
   },
   {
     "full_name": "aviyelverse/aviyel-first-pr",
     "stargazers_count": 18,
-    "open_issues_count": 6,
-    "forks_count": 56
+    "open_issues_count": 11,
+    "forks_count": 67
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 3538,
-    "open_issues_count": 23,
-    "forks_count": 1601
+    "stargazers_count": 3545,
+    "open_issues_count": 20,
+    "forks_count": 1606
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 1963,
+    "stargazers_count": 1973,
     "open_issues_count": 11,
-    "forks_count": 1956
+    "forks_count": 1975
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2978,
+    "stargazers_count": 2984,
     "open_issues_count": 26,
     "forks_count": 706
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127709,
-    "open_issues_count": 148,
-    "forks_count": 24340
+    "stargazers_count": 127785,
+    "open_issues_count": 147,
+    "forks_count": 24351
   }
 ]
