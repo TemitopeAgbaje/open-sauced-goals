@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "Ocraniawan/Food_Delivery_API",
+    "stargazers_count": 3,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 44887,
-    "open_issues_count": 80,
-    "forks_count": 6001
+    "stargazers_count": 44988,
+    "open_issues_count": 81,
+    "forks_count": 6011
   },
   {
     "full_name": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
     "stargazers_count": 356,
     "open_issues_count": 5,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "Your-First-Open-Source-Project/Your-First-Open-Source-Project",
-    "stargazers_count": 74,
+    "stargazers_count": 73,
     "open_issues_count": 1,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "blossom-babs/Data-structures-and-algorithm",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "deepsourcelabs/good-first-issue",
-    "stargazers_count": 1335,
-    "open_issues_count": 59,
-    "forks_count": 376
+    "stargazers_count": 1340,
+    "open_issues_count": 60,
+    "forks_count": 379
   },
   {
     "full_name": "aviyelverse/aviyel-first-pr",
@@ -37,26 +43,26 @@
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 3581,
-    "open_issues_count": 20,
-    "forks_count": 1625
+    "stargazers_count": 3587,
+    "open_issues_count": 19,
+    "forks_count": 1630
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 2014,
+    "stargazers_count": 2026,
     "open_issues_count": 12,
-    "forks_count": 2052
+    "forks_count": 2065
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 2991,
+    "stargazers_count": 2995,
     "open_issues_count": 28,
-    "forks_count": 710
+    "forks_count": 711
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 128058,
-    "open_issues_count": 147,
-    "forks_count": 24407
+    "stargazers_count": 128127,
+    "open_issues_count": 146,
+    "forks_count": 24429
   }
 ]
