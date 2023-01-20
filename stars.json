@@ -1,9 +1,9 @@
 [
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 57806,
+    "stargazers_count": 57832,
     "open_issues_count": 320,
-    "forks_count": 11265
+    "forks_count": 11269
   },
   {
     "full_name": "Ocraniawan/Food_Delivery_API",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 47368,
-    "open_issues_count": 76,
-    "forks_count": 6085
+    "stargazers_count": 47498,
+    "open_issues_count": 77,
+    "forks_count": 6092
   },
   {
     "full_name": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 6,
     "forks_count": 68
   },
   {
     "full_name": "Your-First-Open-Source-Project/Your-First-Open-Source-Project",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 1,
     "forks_count": 91
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "deepsourcelabs/good-first-issue",
-    "stargazers_count": 1502,
+    "stargazers_count": 1504,
     "open_issues_count": 62,
     "forks_count": 414
   },
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 3810,
-    "open_issues_count": 44,
-    "forks_count": 1748
+    "stargazers_count": 3823,
+    "open_issues_count": 38,
+    "forks_count": 1750
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 2241,
+    "stargazers_count": 2256,
     "open_issues_count": 0,
-    "forks_count": 2355
+    "forks_count": 2369
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 3058,
+    "stargazers_count": 3063,
     "open_issues_count": 30,
     "forks_count": 718
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 130939,
-    "open_issues_count": 154,
-    "forks_count": 24843
+    "stargazers_count": 131022,
+    "open_issues_count": 153,
+    "forks_count": 24859
   }
 ]
