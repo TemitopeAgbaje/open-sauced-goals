@@ -1,13 +1,13 @@
 [
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 30376,
-    "open_issues_count": 371,
-    "forks_count": 3234
+    "stargazers_count": 30515,
+    "open_issues_count": 362,
+    "forks_count": 3299
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 59201,
+    "stargazers_count": 59214,
     "open_issues_count": 325,
     "forks_count": 11434
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 57734,
+    "stargazers_count": 57832,
     "open_issues_count": 120,
-    "forks_count": 6629
+    "forks_count": 6630
   },
   {
     "full_name": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
-    "stargazers_count": 489,
-    "open_issues_count": 7,
+    "stargazers_count": 492,
+    "open_issues_count": 8,
     "forks_count": 105
   },
   {
     "full_name": "Your-First-Open-Source-Project/start-here",
     "stargazers_count": 162,
-    "open_issues_count": 2,
-    "forks_count": 174
+    "open_issues_count": 1,
+    "forks_count": 176
   },
   {
     "full_name": "blossom-babs/Data-structures-and-algorithm",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "DeepSourceCorp/good-first-issue",
-    "stargazers_count": 1915,
+    "stargazers_count": 1919,
     "open_issues_count": 143,
-    "forks_count": 610
+    "forks_count": 611
   },
   {
     "full_name": "aviyelverse/aviyel-first-pr",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 4566,
-    "open_issues_count": 65,
-    "forks_count": 2267
+    "stargazers_count": 4570,
+    "open_issues_count": 66,
+    "forks_count": 2271
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 3108,
+    "stargazers_count": 3113,
     "open_issues_count": 15,
-    "forks_count": 3251
+    "forks_count": 3259
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
-    "stargazers_count": 3423,
+    "stargazers_count": 3427,
     "open_issues_count": 35,
     "forks_count": 766
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 138788,
-    "open_issues_count": 164,
-    "forks_count": 26346
+    "stargazers_count": 138857,
+    "open_issues_count": 165,
+    "forks_count": 26359
   }
 ]
