@@ -1,13 +1,13 @@
 [
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 32363,
-    "open_issues_count": 330,
-    "forks_count": 3371
+    "stargazers_count": 32408,
+    "open_issues_count": 332,
+    "forks_count": 3373
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 59473,
+    "stargazers_count": 59476,
     "open_issues_count": 329,
     "forks_count": 11274
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 63234,
-    "open_issues_count": 146,
-    "forks_count": 6743
+    "stargazers_count": 63349,
+    "open_issues_count": 147,
+    "forks_count": 6746
   },
   {
     "full_name": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
-    "stargazers_count": 552,
+    "stargazers_count": 553,
     "open_issues_count": 8,
     "forks_count": 81
   },
   {
     "full_name": "Your-First-Open-Source-Project/start-here",
     "stargazers_count": 196,
-    "open_issues_count": 1,
-    "forks_count": 221
+    "open_issues_count": 2,
+    "forks_count": 223
   },
   {
     "full_name": "blossom-babs/Data-structures-and-algorithm",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "DeepSourceCorp/good-first-issue",
-    "stargazers_count": 2125,
+    "stargazers_count": 2126,
     "open_issues_count": 120,
     "forks_count": 639
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 4948,
+    "stargazers_count": 4963,
     "open_issues_count": 79,
-    "forks_count": 2505
+    "forks_count": 2515
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 3401,
+    "stargazers_count": 3404,
     "open_issues_count": 23,
-    "forks_count": 3547
+    "forks_count": 3552
   },
   {
     "full_name": "tapaswenipathak/Open-Source-Programs",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 141497,
+    "stargazers_count": 141528,
     "open_issues_count": 164,
-    "forks_count": 26123
+    "forks_count": 26129
   }
 ]
